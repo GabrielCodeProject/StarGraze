@@ -1,0 +1,6343 @@
+fileFormatVersion: 2
+guid: a73a607634ab70f4e926ab734c96a3e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1500073540460869717
+    second: floorTiles_crop_0
+  - first:
+      213: 6378557724913167865
+    second: floorTiles_crop_1
+  - first:
+      213: -7649682176220044942
+    second: floorTiles_crop_2
+  - first:
+      213: 4785518299661477846
+    second: floorTiles_crop_3
+  - first:
+      213: -4034040807028649829
+    second: floorTiles_crop_4
+  - first:
+      213: 3489171279970461752
+    second: floorTiles_crop_5
+  - first:
+      213: -3374514495125050370
+    second: floorTiles_crop_6
+  - first:
+      213: -8016659679234608133
+    second: floorTiles_crop_7
+  - first:
+      213: -2308441619747491603
+    second: floorTiles_crop_8
+  - first:
+      213: 8930070871160568131
+    second: floorTiles_crop_9
+  - first:
+      213: -4546621466735186391
+    second: floorTiles_crop_10
+  - first:
+      213: -7967031609854019668
+    second: floorTiles_crop_11
+  - first:
+      213: 7292965146709160187
+    second: floorTiles_crop_12
+  - first:
+      213: -4075488204014779680
+    second: floorTiles_crop_13
+  - first:
+      213: -8685313567990605522
+    second: floorTiles_crop_14
+  - first:
+      213: 893727582799574662
+    second: floorTiles_crop_15
+  - first:
+      213: -4675380429764256376
+    second: floorTiles_crop_16
+  - first:
+      213: -1153657898916173376
+    second: floorTiles_crop_17
+  - first:
+      213: -7968397613181002884
+    second: floorTiles_crop_18
+  - first:
+      213: -1300939638664871159
+    second: floorTiles_crop_19
+  - first:
+      213: -8666532818612054466
+    second: floorTiles_crop_20
+  - first:
+      213: -9209038707443215544
+    second: floorTiles_crop_21
+  - first:
+      213: 1540334822894045760
+    second: floorTiles_crop_22
+  - first:
+      213: 665423521125960440
+    second: floorTiles_crop_23
+  - first:
+      213: 8677409409819206834
+    second: floorTiles_crop_24
+  - first:
+      213: -3069592416268307731
+    second: floorTiles_crop_25
+  - first:
+      213: -5660721460741038691
+    second: floorTiles_crop_26
+  - first:
+      213: 5233538319290782195
+    second: floorTiles_crop_27
+  - first:
+      213: -1031208287035476653
+    second: floorTiles_crop_28
+  - first:
+      213: -544529608682071390
+    second: floorTiles_crop_29
+  - first:
+      213: 4831531329396446934
+    second: floorTiles_crop_30
+  - first:
+      213: -7958697794170727897
+    second: floorTiles_crop_31
+  - first:
+      213: -3133845939870951715
+    second: floorTiles_crop_32
+  - first:
+      213: 3813357896095083772
+    second: floorTiles_crop_33
+  - first:
+      213: 55291357754295968
+    second: floorTiles_crop_34
+  - first:
+      213: -4772564422386038775
+    second: floorTiles_crop_35
+  - first:
+      213: -4840746417954070865
+    second: floorTiles_crop_36
+  - first:
+      213: 4236638937742408158
+    second: floorTiles_crop_37
+  - first:
+      213: -7827713780517901318
+    second: floorTiles_crop_38
+  - first:
+      213: 7394143281160300277
+    second: floorTiles_crop_39
+  - first:
+      213: -378690062806756476
+    second: floorTiles_crop_40
+  - first:
+      213: 3029625400867757798
+    second: floorTiles_crop_41
+  - first:
+      213: 6178689980365525582
+    second: floorTiles_crop_42
+  - first:
+      213: -7457802985639730014
+    second: floorTiles_crop_43
+  - first:
+      213: 5742184527337145893
+    second: floorTiles_crop_44
+  - first:
+      213: -6473387225477675497
+    second: floorTiles_crop_45
+  - first:
+      213: 6249017585839315632
+    second: floorTiles_crop_46
+  - first:
+      213: -7930222280757248472
+    second: floorTiles_crop_47
+  - first:
+      213: -8644077512758317984
+    second: floorTiles_crop_48
+  - first:
+      213: 355539679591702841
+    second: floorTiles_crop_49
+  - first:
+      213: 7309550367677678675
+    second: floorTiles_crop_50
+  - first:
+      213: 9019280497793082560
+    second: floorTiles_crop_51
+  - first:
+      213: -629872958794784231
+    second: floorTiles_crop_52
+  - first:
+      213: -2011442586709303994
+    second: floorTiles_crop_53
+  - first:
+      213: -5350900383821531639
+    second: floorTiles_crop_54
+  - first:
+      213: -5968951096239251543
+    second: floorTiles_crop_55
+  - first:
+      213: -6100594462997385914
+    second: floorTiles_crop_56
+  - first:
+      213: -5978377500306768879
+    second: floorTiles_crop_57
+  - first:
+      213: -993419273786195018
+    second: floorTiles_crop_58
+  - first:
+      213: 2801031616313519647
+    second: floorTiles_crop_59
+  - first:
+      213: -3965397697968346440
+    second: floorTiles_crop_60
+  - first:
+      213: 7392066902576400627
+    second: floorTiles_crop_61
+  - first:
+      213: -4627790942704877833
+    second: floorTiles_crop_62
+  - first:
+      213: -1844216720869073504
+    second: floorTiles_crop_63
+  - first:
+      213: 3313054292056096250
+    second: floorTiles_crop_64
+  - first:
+      213: 8587674318044191478
+    second: floorTiles_crop_65
+  - first:
+      213: 3779307501202470145
+    second: floorTiles_crop_66
+  - first:
+      213: 7798965723291465470
+    second: floorTiles_crop_67
+  - first:
+      213: 7719233657032983338
+    second: floorTiles_crop_68
+  - first:
+      213: 7146840223999121329
+    second: floorTiles_crop_69
+  - first:
+      213: 9078837116805206093
+    second: floorTiles_crop_70
+  - first:
+      213: 783728959776688976
+    second: floorTiles_crop_71
+  - first:
+      213: -1012948574089215292
+    second: floorTiles_crop_72
+  - first:
+      213: 8126562016767873153
+    second: floorTiles_crop_73
+  - first:
+      213: -6110795707734069377
+    second: floorTiles_crop_74
+  - first:
+      213: 5629359044637951725
+    second: floorTiles_crop_75
+  - first:
+      213: 4999886652111955537
+    second: floorTiles_crop_76
+  - first:
+      213: -836133996189856722
+    second: floorTiles_crop_77
+  - first:
+      213: -8383752392828160276
+    second: floorTiles_crop_78
+  - first:
+      213: -4339385421446114110
+    second: floorTiles_crop_79
+  - first:
+      213: -7707961590440254833
+    second: floorTiles_crop_80
+  - first:
+      213: 619502646966206120
+    second: floorTiles_crop_81
+  - first:
+      213: -5365984422757101332
+    second: floorTiles_crop_82
+  - first:
+      213: -6893825647528870477
+    second: floorTiles_crop_83
+  - first:
+      213: -6776184741202130354
+    second: floorTiles_crop_84
+  - first:
+      213: 8152561615457613896
+    second: floorTiles_crop_85
+  - first:
+      213: 6274553543826736081
+    second: floorTiles_crop_86
+  - first:
+      213: -387966107457942243
+    second: floorTiles_crop_87
+  - first:
+      213: -5340501081712678183
+    second: floorTiles_crop_88
+  - first:
+      213: -235459653961289458
+    second: floorTiles_crop_89
+  - first:
+      213: -8608859663786942840
+    second: floorTiles_crop_90
+  - first:
+      213: -6007227836409959844
+    second: floorTiles_crop_91
+  - first:
+      213: -7145171361057835209
+    second: floorTiles_crop_92
+  - first:
+      213: 5075122831990422496
+    second: floorTiles_crop_93
+  - first:
+      213: -8730920653707365536
+    second: floorTiles_crop_94
+  - first:
+      213: -6911571363923121144
+    second: floorTiles_crop_95
+  - first:
+      213: 2117077780926170243
+    second: floorTiles_crop_96
+  - first:
+      213: 919830423087081002
+    second: floorTiles_crop_97
+  - first:
+      213: 7691243839906534575
+    second: floorTiles_crop_98
+  - first:
+      213: 554564596984726155
+    second: floorTiles_crop_99
+  - first:
+      213: -6950654170147491401
+    second: floorTiles_crop_100
+  - first:
+      213: -8374848210888555633
+    second: floorTiles_crop_101
+  - first:
+      213: -4968607985576653419
+    second: floorTiles_crop_102
+  - first:
+      213: 1879521396680355211
+    second: floorTiles_crop_103
+  - first:
+      213: -4786271176273858288
+    second: floorTiles_crop_104
+  - first:
+      213: -6327019172751830343
+    second: floorTiles_crop_105
+  - first:
+      213: -6013627081680270747
+    second: floorTiles_crop_106
+  - first:
+      213: 8900300256956947119
+    second: floorTiles_crop_107
+  - first:
+      213: -5070924664523355350
+    second: floorTiles_crop_108
+  - first:
+      213: 3984504675034839021
+    second: floorTiles_crop_109
+  - first:
+      213: -7357832308443112547
+    second: floorTiles_crop_110
+  - first:
+      213: 9187525446372132714
+    second: floorTiles_crop_111
+  - first:
+      213: 4180605413956030729
+    second: floorTiles_crop_112
+  - first:
+      213: -2271948807005378075
+    second: floorTiles_crop_113
+  - first:
+      213: 8628848733655654953
+    second: floorTiles_crop_114
+  - first:
+      213: 5827354738297754525
+    second: floorTiles_crop_115
+  - first:
+      213: -5860665226209383297
+    second: floorTiles_crop_116
+  - first:
+      213: 3912144137547619578
+    second: floorTiles_crop_117
+  - first:
+      213: -152433678249885000
+    second: floorTiles_crop_118
+  - first:
+      213: 7498134834045285607
+    second: floorTiles_crop_119
+  - first:
+      213: 539049175755749167
+    second: floorTiles_crop_120
+  - first:
+      213: -8281433681927573479
+    second: floorTiles_crop_121
+  - first:
+      213: 7994489025820840034
+    second: floorTiles_crop_122
+  - first:
+      213: 5324736841968448604
+    second: floorTiles_crop_123
+  - first:
+      213: 1036907124750867663
+    second: floorTiles_crop_124
+  - first:
+      213: 5892471524870540738
+    second: floorTiles_crop_125
+  - first:
+      213: -6131737267862680094
+    second: floorTiles_crop_126
+  - first:
+      213: 663953687694562374
+    second: floorTiles_crop_127
+  - first:
+      213: -3079975522107383703
+    second: floorTiles_crop_128
+  - first:
+      213: -7199988753496505796
+    second: floorTiles_crop_129
+  - first:
+      213: -969080210972398057
+    second: floorTiles_crop_130
+  - first:
+      213: 4957210241931905076
+    second: floorTiles_crop_131
+  - first:
+      213: 3551315635296517604
+    second: floorTiles_crop_132
+  - first:
+      213: 1018931359682857866
+    second: floorTiles_crop_133
+  - first:
+      213: 4741298036160264128
+    second: floorTiles_crop_134
+  - first:
+      213: -510756218891496777
+    second: floorTiles_crop_135
+  - first:
+      213: -82031185672585687
+    second: floorTiles_crop_136
+  - first:
+      213: 7394820985059194817
+    second: floorTiles_crop_137
+  - first:
+      213: 8932852051648191954
+    second: floorTiles_crop_138
+  - first:
+      213: 5536494955400595040
+    second: floorTiles_crop_139
+  - first:
+      213: 5427759414505071362
+    second: floorTiles_crop_140
+  - first:
+      213: 6843652517247898886
+    second: floorTiles_crop_141
+  - first:
+      213: 3065029041543397453
+    second: floorTiles_crop_142
+  - first:
+      213: 2394017402288650451
+    second: floorTiles_crop_143
+  - first:
+      213: -3177828462539663223
+    second: floorTiles_crop_144
+  - first:
+      213: -6368763038263646402
+    second: floorTiles_crop_145
+  - first:
+      213: -5190197248909096289
+    second: floorTiles_crop_146
+  - first:
+      213: 6613767749078925585
+    second: floorTiles_crop_147
+  - first:
+      213: 8488269165264244686
+    second: floorTiles_crop_148
+  - first:
+      213: -7354166608680746022
+    second: floorTiles_crop_149
+  - first:
+      213: -7326179781648384598
+    second: floorTiles_crop_150
+  - first:
+      213: 587874025291364220
+    second: floorTiles_crop_151
+  - first:
+      213: -2320426318876652216
+    second: floorTiles_crop_152
+  - first:
+      213: -5756568322929846980
+    second: floorTiles_crop_153
+  - first:
+      213: -873778688953079459
+    second: floorTiles_crop_154
+  - first:
+      213: 1850695089586386220
+    second: floorTiles_crop_155
+  - first:
+      213: 6679313974415759151
+    second: floorTiles_crop_156
+  - first:
+      213: -55458219053496834
+    second: floorTiles_crop_157
+  - first:
+      213: -1667772544968282565
+    second: floorTiles_crop_158
+  - first:
+      213: 8650612663875215753
+    second: floorTiles_crop_159
+  - first:
+      213: -3394308741028684089
+    second: floorTiles_crop_160
+  - first:
+      213: -1276466098378378260
+    second: floorTiles_crop_161
+  - first:
+      213: -7275010983299875310
+    second: floorTiles_crop_162
+  - first:
+      213: 1693726623898141826
+    second: floorTiles_crop_163
+  - first:
+      213: -218613701902950330
+    second: floorTiles_crop_164
+  - first:
+      213: 2979456756911671151
+    second: floorTiles_crop_165
+  - first:
+      213: -4750125306524962762
+    second: floorTiles_crop_166
+  - first:
+      213: -2568213774406547074
+    second: floorTiles_crop_167
+  - first:
+      213: -7097815083900255282
+    second: floorTiles_crop_168
+  - first:
+      213: 1099071011312739308
+    second: floorTiles_crop_169
+  - first:
+      213: -2055333201400377373
+    second: floorTiles_crop_170
+  - first:
+      213: 2258048154194318861
+    second: floorTiles_crop_171
+  - first:
+      213: -6890823149631761102
+    second: floorTiles_crop_172
+  - first:
+      213: 4215685728588239605
+    second: floorTiles_crop_173
+  - first:
+      213: 7501151266085013333
+    second: floorTiles_crop_174
+  - first:
+      213: 2135425256390101168
+    second: floorTiles_crop_175
+  - first:
+      213: 5890963055964308125
+    second: floorTiles_crop_176
+  - first:
+      213: -8552852436927053728
+    second: floorTiles_crop_177
+  - first:
+      213: 7702352517201481063
+    second: floorTiles_crop_178
+  - first:
+      213: -2533921917177878265
+    second: floorTiles_crop_179
+  - first:
+      213: -6467571433929218831
+    second: floorTiles_crop_180
+  - first:
+      213: -3072709242351814112
+    second: floorTiles_crop_181
+  - first:
+      213: -8086883104074382371
+    second: floorTiles_crop_182
+  - first:
+      213: -7736808329541197061
+    second: floorTiles_crop_183
+  - first:
+      213: -2457336519099416221
+    second: floorTiles_crop_184
+  - first:
+      213: 5197234612173779230
+    second: floorTiles_crop_185
+  - first:
+      213: -5781345691165629679
+    second: floorTiles_crop_186
+  - first:
+      213: 2923524689960164722
+    second: floorTiles_crop_187
+  - first:
+      213: -3396133957623917724
+    second: floorTiles_crop_188
+  - first:
+      213: -8228585779865908770
+    second: floorTiles_crop_189
+  - first:
+      213: 4116163819229485610
+    second: floorTiles_crop_190
+  - first:
+      213: 5356369569099395100
+    second: floorTiles_crop_191
+  - first:
+      213: -1777602576393624627
+    second: floorTiles_crop_192
+  - first:
+      213: -4778447395740486001
+    second: floorTiles_crop_193
+  - first:
+      213: 3092156002698449742
+    second: floorTiles_crop_194
+  - first:
+      213: -4875835353024519429
+    second: floorTiles_crop_195
+  - first:
+      213: -1964602662662515254
+    second: floorTiles_crop_196
+  - first:
+      213: -3250307166082175772
+    second: floorTiles_crop_197
+  - first:
+      213: -3322067443354280459
+    second: floorTiles_crop_198
+  - first:
+      213: 2506990911825949132
+    second: floorTiles_crop_199
+  - first:
+      213: -2341535741736344395
+    second: floorTiles_crop_200
+  - first:
+      213: -7143210737793380039
+    second: floorTiles_crop_201
+  - first:
+      213: 6282193274316770056
+    second: floorTiles_crop_202
+  - first:
+      213: -6470340057773556159
+    second: floorTiles_crop_203
+  - first:
+      213: 2654908678772176929
+    second: floorTiles_crop_204
+  - first:
+      213: 1021882931720535218
+    second: floorTiles_crop_205
+  - first:
+      213: 820595216755655725
+    second: floorTiles_crop_206
+  - first:
+      213: -204794936953552622
+    second: floorTiles_crop_207
+  - first:
+      213: 2408889652159581400
+    second: floorTiles_crop_208
+  - first:
+      213: 8272546056294760294
+    second: floorTiles_crop_209
+  - first:
+      213: -6845064775125521461
+    second: floorTiles_crop_210
+  - first:
+      213: 275202729775286328
+    second: floorTiles_crop_211
+  - first:
+      213: 6915393408276142719
+    second: floorTiles_crop_212
+  - first:
+      213: -7568867240256166456
+    second: floorTiles_crop_213
+  - first:
+      213: -9175986525586457568
+    second: floorTiles_crop_214
+  - first:
+      213: 8629974427270183570
+    second: floorTiles_crop_215
+  - first:
+      213: 5664168411926753024
+    second: floorTiles_crop_216
+  - first:
+      213: 6408318778958483492
+    second: floorTiles_crop_217
+  - first:
+      213: -8524766814207060226
+    second: floorTiles_crop_218
+  - first:
+      213: -4331452256033922258
+    second: floorTiles_crop_219
+  - first:
+      213: 4538465622729805227
+    second: floorTiles_crop_220
+  - first:
+      213: -3823606762592523814
+    second: floorTiles_crop_221
+  - first:
+      213: -6073300283844338601
+    second: floorTiles_crop_222
+  - first:
+      213: 876356225747076633
+    second: floorTiles_crop_223
+  - first:
+      213: -9189564673303400140
+    second: floorTiles_crop_224
+  - first:
+      213: -6973897853386680877
+    second: floorTiles_crop_225
+  - first:
+      213: 4010739659925484465
+    second: floorTiles_crop_226
+  - first:
+      213: -2957815366048757481
+    second: floorTiles_crop_227
+  - first:
+      213: 5452828755901222039
+    second: floorTiles_crop_228
+  - first:
+      213: -5991342310335376199
+    second: floorTiles_crop_229
+  - first:
+      213: -62669748968831877
+    second: floorTiles_crop_230
+  - first:
+      213: -522045678041390020
+    second: floorTiles_crop_231
+  - first:
+      213: 1571568951066122357
+    second: floorTiles_crop_232
+  - first:
+      213: -3384570104607215334
+    second: floorTiles_crop_233
+  - first:
+      213: -8537691181751367090
+    second: floorTiles_crop_234
+  - first:
+      213: -7576198965761032733
+    second: floorTiles_crop_235
+  - first:
+      213: -6095094274959598021
+    second: floorTiles_crop_236
+  - first:
+      213: -6753013784206273113
+    second: floorTiles_crop_237
+  - first:
+      213: -6547113514955474283
+    second: floorTiles_crop_238
+  - first:
+      213: -854218667401291136
+    second: floorTiles_crop_239
+  - first:
+      213: -1844772860420456851
+    second: floorTiles_crop_240
+  - first:
+      213: -1918486421314979493
+    second: floorTiles_crop_241
+  - first:
+      213: 85682367715285703
+    second: floorTiles_crop_242
+  - first:
+      213: -5289768302364968031
+    second: floorTiles_crop_243
+  - first:
+      213: -1685498285708571039
+    second: floorTiles_crop_244
+  - first:
+      213: -8964918768402946177
+    second: floorTiles_crop_245
+  - first:
+      213: -3069457142914025133
+    second: floorTiles_crop_246
+  - first:
+      213: 2281748132019496537
+    second: floorTiles_crop_247
+  - first:
+      213: -6066068900351302876
+    second: floorTiles_crop_248
+  - first:
+      213: 5947742198317072238
+    second: floorTiles_crop_249
+  - first:
+      213: 2616244449164405426
+    second: floorTiles_crop_250
+  - first:
+      213: -3804434243447984989
+    second: floorTiles_crop_251
+  - first:
+      213: 2811536858026741879
+    second: floorTiles_crop_252
+  - first:
+      213: -1395527360091622727
+    second: floorTiles_crop_253
+  - first:
+      213: 3951138179537488777
+    second: floorTiles_crop_254
+  - first:
+      213: -3601663432393700678
+    second: floorTiles_crop_255
+  - first:
+      213: 6329925758710542676
+    second: floorTiles_crop_256
+  - first:
+      213: 9156683482346640584
+    second: floorTiles_crop_257
+  - first:
+      213: 6838478183302209243
+    second: floorTiles_crop_258
+  - first:
+      213: -8590833512840304733
+    second: floorTiles_crop_259
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floorTiles_crop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b6d16c6db37b54fbb577be5740b894
+      internalID: -1500073540460869717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b2911844b232438420cc327d8ad3b
+      internalID: 6378557724913167865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e542c71bfc6ed7459cc4ef339d73a0a
+      internalID: -7649682176220044942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e631b2fe9f34094e9a9226674c2eff8
+      internalID: 4785518299661477846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441368ecf3ee6ef40938fd2db8da39d5
+      internalID: -4034040807028649829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b8ff5426ab20c449bea7e50462209c
+      internalID: 3489171279970461752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0fb72aff2e07c48b40df52852b6b1c
+      internalID: -3374514495125050370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacff2466594a364580c5158d73af139
+      internalID: -8016659679234608133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d0dbe6eb8a97b458e1c217fb043242
+      internalID: -2308441619747491603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a488477636da45a56c347c25d6175
+      internalID: 8930070871160568131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188c5b520a359747a4997159505c3a5
+      internalID: -4546621466735186391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80296143bc44944b8476f7f7cafca2
+      internalID: -7967031609854019668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 676
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78174ed7ede4f49a0bffee82ac0ef9
+      internalID: 7292965146709160187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f923631eedf38443b1e2fe0c582b710
+      internalID: -4075488204014779680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffcf8ab8f369404faa3cd61c4779468
+      internalID: -8685313567990605522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5562577d7c234584df5ec3ca4320a
+      internalID: 893727582799574662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c027c4ef952c6241b0b35e109900777
+      internalID: -4675380429764256376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65404c106c9caa348a408d89c6ae8c60
+      internalID: -1153657898916173376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b5b58f0562b454d82e914733aa97d5
+      internalID: -7968397613181002884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02179cd2ffe84489905c213d41eeaa
+      internalID: -1300939638664871159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd398f36598270f44ab5e07096a311b8
+      internalID: -8666532818612054466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3160915aa022c4f813a64f8effe59f
+      internalID: -9209038707443215544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee263e13caeda74bad5114aa2d863aa
+      internalID: 1540334822894045760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e9fdd918a8dc4baa90440ec0df2d4
+      internalID: 665423521125960440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd76ecde5ff3bb42acd40c64afec4d4
+      internalID: 8677409409819206834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 642
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63228ac904ab5418b2441e1a385150
+      internalID: -3069592416268307731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a1237773fb54a4b8607007ddfe04c9
+      internalID: -5660721460741038691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed30d5bacb1b68140a0301b4c202d7e9
+      internalID: 5233538319290782195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4180577b205ce409d74b6cf4849de7
+      internalID: -1031208287035476653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb6c4a421471246acae3cabd99d70f
+      internalID: -544529608682071390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae7185a411ed144970a30e4b612f96
+      internalID: 4831531329396446934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90408811767f0fa4db6f5cdb9ec37d48
+      internalID: -7958697794170727897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23281c6f33b267b48981f093b93b3f50
+      internalID: -3133845939870951715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a87945b7e135904ebca25ce9a89f900
+      internalID: 3813357896095083772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab335a3c4cd38b94faa5c69e1e34370f
+      internalID: 55291357754295968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9efb378c922922439286a8ee645d088
+      internalID: -4772564422386038775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb7138bfcfc054294a00b31dcf723d
+      internalID: -4840746417954070865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a761e79ee9591a43ab5b94346a6d788
+      internalID: 4236638937742408158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 608
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85e6170cf953f429b5ea1994f27df5
+      internalID: -7827713780517901318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78029b3d4950a45b46e1e01a3186f4
+      internalID: 7394143281160300277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f3a234a6958434987927438a5bc2fb
+      internalID: -378690062806756476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5475097478fda47a6befbe2ce54d66
+      internalID: 3029625400867757798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d2b9a2d427ea45a510078c07ce770
+      internalID: 6178689980365525582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9261e4ebb2be174e82bc22891476423
+      internalID: -7457802985639730014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6ab5927210674cb70730e4c47066a
+      internalID: 5742184527337145893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0a04895f117d488cf313bc668cf3a
+      internalID: -6473387225477675497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136278da611c62449923e6f05da6574
+      internalID: 6249017585839315632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b777f783de72634eb952ab6ff17464a
+      internalID: -7930222280757248472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c08b3fb6a14f94c9ce2a5e89ad9300
+      internalID: -8644077512758317984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33abdb59bbb384e829e7e67ca0dd65
+      internalID: 355539679591702841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6195315cf62f5e84d8f517f32a620caf
+      internalID: 7309550367677678675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 574
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bbe8d198d5dbb45a9e1503ea247314
+      internalID: 9019280497793082560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f18f19cbb4b61545a84f1140bfc6653
+      internalID: -629872958794784231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7a19b4842012408486fdb41f85e59
+      internalID: -2011442586709303994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbae99b296a5387428ef7b74d2aba2e1
+      internalID: -5350900383821531639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9a9e0b41f35946a73a569e889bf4e
+      internalID: -5968951096239251543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b1b33fe81fe74c8052121f3dddc4c
+      internalID: -6100594462997385914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7093d15f1013a443b7e7df1d7410fdc
+      internalID: -5978377500306768879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daffc1a650184294b9de9efe0cc0cac4
+      internalID: -993419273786195018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f780d69b235ed243b4bf14ce36ae274
+      internalID: 2801031616313519647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137e179781353bf49bc344899e5c6669
+      internalID: -3965397697968346440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7774f1c2b1f3bd24ca565ad9a0d4ed8a
+      internalID: 7392066902576400627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890dd1513828754c8a417ea5727794b
+      internalID: -4627790942704877833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_63
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f3d3c2d2ee1b49b4159b43a515425
+      internalID: -1844216720869073504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 540
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57c81fa20fd4c4bbd93f790d29b5c1
+      internalID: 3313054292056096250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae745d485fa88f54d9cdfbd5b1cd566f
+      internalID: 8587674318044191478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbf42f68c951c4d850a1ccc3befc0d
+      internalID: 3779307501202470145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57bedaa6f7aa24899b7bb720e2dde9
+      internalID: 7798965723291465470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8cb362d80b27f4d9e275af89eb3638
+      internalID: 7719233657032983338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c1dc59839a0e4f8954558bc76a2a8
+      internalID: 7146840223999121329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f25119294a6e47b974ad615b1971d
+      internalID: 9078837116805206093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0349d9bec14f9824cbcd024595c48af2
+      internalID: 783728959776688976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65e6dcec6e98e449e3c40a54773845
+      internalID: -1012948574089215292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c181322b48834ebf835c565611bce
+      internalID: 8126562016767873153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c32196c81b8e4e8406504d91ec593
+      internalID: -6110795707734069377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd99467f22a5744970b24360dc0c16
+      internalID: 5629359044637951725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d594d5f9ad704084cbcbab51490ae
+      internalID: 4999886652111955537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 506
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ef905a0d783545a1aeff419c8356d
+      internalID: -836133996189856722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195123189e741b9419d4e62d72f00a26
+      internalID: -8383752392828160276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77c617bc606d442aea6db64a3178a9
+      internalID: -4339385421446114110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23df9a3f43137408677c7834f6a523
+      internalID: -7707961590440254833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5c89f1c8fccb345804602eaf6f601d
+      internalID: 619502646966206120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c564aa78e2c12bd4da6795e565e3181a
+      internalID: -5365984422757101332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b315d64c60654995ac05e1432b87e
+      internalID: -6893825647528870477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c4182c86bd9149a2481e7d1185e07
+      internalID: -6776184741202130354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_85
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f474a01c84e18445be5675d8cf51da6
+      internalID: 8152561615457613896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 471
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aea340625d16847b99dd49e40a03bf
+      internalID: 6274553543826736081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186dbad6b83942547973ce7cdada1975
+      internalID: -387966107457942243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_88
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49752b96f7653734abb59ce5e64c2263
+      internalID: -5340501081712678183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_89
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480847379e2b56419eba11ff9d0ebb3
+      internalID: -235459653961289458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_90
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 472
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eab1ff8d517384897f17a823c4bc9e
+      internalID: -8608859663786942840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7581796d7e46e408a996318afe9e94
+      internalID: -6007227836409959844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6a7c4bd41267646b7fe2f81419480d
+      internalID: -7145171361057835209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf4ffeafba23547835c86677cf672f
+      internalID: 5075122831990422496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc3b39623b1ef4cbf24cf718eb3460
+      internalID: -8730920653707365536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b2591810c4f243b6f079016b71fa9
+      internalID: -6911571363923121144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3eb7a4da0a7d49a0d554720210584
+      internalID: 2117077780926170243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_97
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36096faf71e374392e9dfd82e8328e
+      internalID: 919830423087081002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_98
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d707126db2f847af9ece05a6b755a
+      internalID: 7691243839906534575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff778f30a8ecb34c82f67e6ac3170d2
+      internalID: 554564596984726155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f340144978c6f40b17ebf454f5c689
+      internalID: -6950654170147491401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272fa4917c99f2468bcabe05c100b5e
+      internalID: -8374848210888555633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_102
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21e5d908ba0d2499b87f3123d02eb0
+      internalID: -4968607985576653419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 438
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f70b68a2bce543ad51b8e0230dd65
+      internalID: 1879521396680355211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a079b99f6b3ed4341b2bb3569e81caf8
+      internalID: -4786271176273858288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681cb08c58ff864c9981753968557fd
+      internalID: -6327019172751830343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a574ad86711b8643ba3bb2dfb78c0c8
+      internalID: -6013627081680270747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_107
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1af908700cb94b4c8b14795ab2c99a5
+      internalID: 8900300256956947119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b490f97d17224499421a229a507a5
+      internalID: -5070924664523355350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_109
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7823a190c96844a42aa261dd334976fc
+      internalID: 3984504675034839021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_110
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff1f2526c91f1a46956ac4c2e660150
+      internalID: -7357832308443112547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e53fba9dd9004bade359ceddcc814
+      internalID: 9187525446372132714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad290e9b1bd2dcd47910af9c46f080e4
+      internalID: 4180605413956030729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4aba65b1b71664d95f215930c86fc2
+      internalID: -2271948807005378075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62465048540524ba34bee904cd2d84
+      internalID: 8628848733655654953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_115
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8356356afcbe6554ebcc538fd5b9ba56
+      internalID: 5827354738297754525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_116
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 404
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b20070b0a3844a810f1dc007d3f88
+      internalID: -5860665226209383297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b9be9339c43e4cb977cccf179b851
+      internalID: 3912144137547619578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_118
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a63446ddd2094d8d41c267db44f0b
+      internalID: -152433678249885000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_119
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3a32dfcce59641b6d451b10ffb037
+      internalID: 7498134834045285607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_120
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090d22f6d5d3a64d8beb5b0f49d31f0
+      internalID: 539049175755749167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ccebc349b217b42a2fc4a29ddcc2be
+      internalID: -8281433681927573479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07baf98329778344aa144e680ea8494
+      internalID: 7994489025820840034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab15a6382119f47a115ddbd8de2172
+      internalID: 5324736841968448604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_124
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7717fcbc80c507488e2fa4426b9a92c
+      internalID: 1036907124750867663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da460d13d2e3d0f45b88d4426418e448
+      internalID: 5892471524870540738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_126
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88aa6134d236c4aaad2f4f27a688bb
+      internalID: -6131737267862680094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_127
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404c51e3a66d7641a8516c1b6c13893
+      internalID: 663953687694562374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_128
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10b0a6b111ce04c93176f4016cca18
+      internalID: -3079975522107383703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_129
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 370
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8b876143958d4ba4d6c5309834ce9
+      internalID: -7199988753496505796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2588779bb8ee44888a938e2bc574c2
+      internalID: -969080210972398057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_131
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b99523f9f223948aa50e497a5abbea
+      internalID: 4957210241931905076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091295c662942f74e8573c9ca5f8339f
+      internalID: 3551315635296517604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_133
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0365369460b9d4593552002183b3d1
+      internalID: 1018931359682857866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39981896cffc4946ad0251fd9203cf8
+      internalID: 4741298036160264128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b23bd5d9bb0d4782301ea2fbcfc84
+      internalID: -510756218891496777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2499255d4f048614a96d17cb1890aef9
+      internalID: -82031185672585687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f236ebb17b0d24e98a5c9f98cff60d
+      internalID: 7394820985059194817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_138
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d766b9da9d9e42a5057ed518c2915
+      internalID: 8932852051648191954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_139
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dce5b27e1b9a44982cc3740296410e
+      internalID: 5536494955400595040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_140
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239be45bdb41a454a890982e29ca8acf
+      internalID: 5427759414505071362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_141
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd85bc30620a7446810441bc4700043
+      internalID: 6843652517247898886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f331223731267b4a9d4c466aab97adb
+      internalID: 3065029041543397453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3509f8fe3fe5e8a4b936b518ff8c120b
+      internalID: 2394017402288650451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff54eecfdf1e2428aeffc97922e6b0
+      internalID: -3177828462539663223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_145
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf5ed1883c63144bd115db5c5a3184
+      internalID: -6368763038263646402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_146
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1853622b5ca5f9941a18020305b6a640
+      internalID: -5190197248909096289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_147
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243ca4919ccfbd409eab6d4a1dddb22
+      internalID: 6613767749078925585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_148
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a49ea5981b8c24f9fa15d3cb946195
+      internalID: 8488269165264244686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_149
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574b137658c6c64cb0c3b9351a77ea7
+      internalID: -7354166608680746022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_150
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017554ea9d000a41a2a696786760240
+      internalID: -7326179781648384598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce44aec0066574a93f22c2c3ed5ec0
+      internalID: 587874025291364220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_152
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e925b806d0d8458cfa54e1415121a
+      internalID: -2320426318876652216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_153
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ea8b040bba7646be2d44c8fec9a96
+      internalID: -5756568322929846980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_154
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ffd58895436a84ebc37e3588a0271c
+      internalID: -873778688953079459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_155
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1c7a7a0ac23745ba85feee631a394
+      internalID: 1850695089586386220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca53b11ad825f45874dcd19fa71916
+      internalID: 6679313974415759151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_157
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46440d50bed98a4faebdbd6f3512712
+      internalID: -55458219053496834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_158
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b529145d4b2e0145b4f2340bc7429c6
+      internalID: -1667772544968282565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_159
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a3867c37ea07d47b9fc2fb29e4089f
+      internalID: 8650612663875215753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_160
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837f7e89830cef4aa0778272d089c37
+      internalID: -3394308741028684089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_161
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27f6cdcf2486441a4af63ce016199a
+      internalID: -1276466098378378260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_162
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9db9b1db03470449d5f62b9395d55b
+      internalID: -7275010983299875310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_163
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e036709b6ea645beee431bde93438
+      internalID: 1693726623898141826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbe7a59b85ca24da5cec849e546683
+      internalID: -218613701902950330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_165
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79947f56a24a62f4ab0f5290aff57408
+      internalID: 2979456756911671151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_166
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a9885b0b22fa49b991c685097d951
+      internalID: -4750125306524962762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_167
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79245a3056ecd440b3b0358b1e5527c
+      internalID: -2568213774406547074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_168
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 268
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503d6071b61bec4bb17ff91792bf918
+      internalID: -7097815083900255282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ab00d09e56d843a0a15a419eb6c8b
+      internalID: 1099071011312739308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_170
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc6ccd6fdc2cc459083d0130bb33be
+      internalID: -2055333201400377373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_171
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb6c37925da57b41828f57d291ff02c
+      internalID: 2258048154194318861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_172
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523524559af9e9145926ee38bd06a89b
+      internalID: -6890823149631761102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_173
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54eb42c795eff64c8e6d1d3b7208502
+      internalID: 4215685728588239605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_174
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be0d804b4ad1c48ae0b9c42ebc9a7f
+      internalID: 7501151266085013333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_175
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da635e1cae801114abe43dc00b91618b
+      internalID: 2135425256390101168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_176
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ec6bd77e254942b2de30a8836b5d1
+      internalID: 5890963055964308125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_177
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4563d43f54ce44fb7f2f36f716c732
+      internalID: -8552852436927053728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_178
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b914d5053a00257488ee914fe31e27ad
+      internalID: 7702352517201481063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_179
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabac4f025387146b874466334b361d
+      internalID: -2533921917177878265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_180
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9bf6c3b2eaaf847a377ac139330455
+      internalID: -6467571433929218831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_181
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 234
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc53d417143e7c499c83c68de600321
+      internalID: -3072709242351814112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46625483ea8809948b2175b3e6fa14df
+      internalID: -8086883104074382371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_183
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b4e93ab465c74db75e098a2ef5bcd
+      internalID: -7736808329541197061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_184
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e223301ac31374da427f400d01ba8a
+      internalID: -2457336519099416221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_185
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c23cb5db34cf941ab2af5c38f0077f
+      internalID: 5197234612173779230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_186
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e63719b5003864494cafe583182405
+      internalID: -5781345691165629679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_187
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157dc0c28bb7c34ab71472be55535da
+      internalID: 2923524689960164722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_188
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750efe8596a130545988b601fa784c2d
+      internalID: -3396133957623917724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_189
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd4e9dfa07c79044a582efe5c4ee8a1
+      internalID: -8228585779865908770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_190
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea11b071ff126459b91a9935955557
+      internalID: 4116163819229485610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_191
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d461fbac639b4181af2a28d031ee9
+      internalID: 5356369569099395100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_192
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae35e1d73ba878448f3bb2db5d484a5
+      internalID: -1777602576393624627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_193
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c1c24a9356a042adf3965457122f0
+      internalID: -4778447395740486001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_194
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d11ec3042038249b49438de4c1a47a
+      internalID: 3092156002698449742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47cbd0b6abb5814db735ecf96129700
+      internalID: -4875835353024519429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_196
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4169af131af5aca47bdb9b1681335e35
+      internalID: -1964602662662515254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_197
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55842b0498325ee418c0d419798de28e
+      internalID: -3250307166082175772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_198
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450ecb0f474548546856883cdebb30ee
+      internalID: -3322067443354280459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_199
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a057f0d670c98243a77bd452757ff30
+      internalID: 2506990911825949132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_200
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43365c28ec4df449e62065bf8c7eb3
+      internalID: -2341535741736344395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_201
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a33f40ff5c719d4b8e08462a14791d7
+      internalID: -7143210737793380039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_202
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e52495edce0b409f57a26f2e2dbc0
+      internalID: 6282193274316770056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_203
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c09b4d32757ca47a1e004cb566407d
+      internalID: -6470340057773556159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_204
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c5b9b005c8af48a9188f156168dd8
+      internalID: 2654908678772176929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_205
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f16dac69cadd74f905ef546cfa50c7
+      internalID: 1021882931720535218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_206
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba257a504b1a2c48aeddfdaa2319213
+      internalID: 820595216755655725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_207
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 166
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2ff12f585d9e49ada509bb3737235
+      internalID: -204794936953552622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00a7add89287164189f26118576ec6d
+      internalID: 2408889652159581400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_209
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee7d075bfab084c87eaaed20f426c5
+      internalID: 8272546056294760294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_210
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9db27b2fbc1541b7d6f59bd634ada
+      internalID: -6845064775125521461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ecd3ffe112fd4a933992590c70a9e
+      internalID: 275202729775286328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_212
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf570d65f424764c9131caef4091a8d
+      internalID: 6915393408276142719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_213
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc698e630c89d3043b3cf6b189a57646
+      internalID: -7568867240256166456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_214
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea95940b0a0c0649b288e5c128fd246
+      internalID: -9175986525586457568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_215
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccfdea74aa7ddf4282cae5c3012bde8
+      internalID: 8629974427270183570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_216
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9519d7f560794d81d76e8210e7a9b
+      internalID: 5664168411926753024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_217
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9bf9d81fb8cf45aa7436a5e41d866
+      internalID: 6408318778958483492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_218
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4f93fa55ba944d8125b823c6eb451
+      internalID: -8524766814207060226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_219
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191f336a6a7b94a45a599d3f20d96a99
+      internalID: -4331452256033922258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_220
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68956769ad89a9b418631f6457d4a822
+      internalID: 4538465622729805227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b274d916b327a1449bcf42c01d8a7bb1
+      internalID: -3823606762592523814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_222
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8df72b2bb04e64eb346fbd017468c1
+      internalID: -6073300283844338601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_223
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095b08bb41e3b54fb4df399ae0cc0f2
+      internalID: 876356225747076633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_224
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee763be914805c4180706e4b2f4abd6
+      internalID: -9189564673303400140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_225
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28aa2b3c37abaa4e9b33839c3967e84
+      internalID: -6973897853386680877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_226
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bce189ca688fd41b486bbc208f8cfc
+      internalID: 4010739659925484465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_227
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ae9ac184387040b18de5389b9084c
+      internalID: -2957815366048757481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_228
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31940600d86692a42a5b30f246e45aa1
+      internalID: 5452828755901222039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_229
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f114f84547a343be69656d9162c0d
+      internalID: -5991342310335376199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_230
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84377ca54e22f5b4b89f2c8654a33615
+      internalID: -62669748968831877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_231
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e7a3d24d0c0b4e9d20c5919378cd6
+      internalID: -522045678041390020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_232
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f5a70a6da970e4f92ceaa2e73aec95
+      internalID: 1571568951066122357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_233
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a031c12430ecb1446af6507836b5443a
+      internalID: -3384570104607215334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78113a5fcfd386b44b778a728c02f7db
+      internalID: -8537691181751367090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_235
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c583a7f67e3b49b2d18beab5cdbde
+      internalID: -7576198965761032733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_236
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d84aa1b5546b14f90ec6146d2e842f
+      internalID: -6095094274959598021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_237
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19fb030aacd5964c9e62c10e8410f00
+      internalID: -6753013784206273113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_238
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd8178925a7f74588b48a774c62c16
+      internalID: -6547113514955474283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_239
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3d80320b829a4bb241d26cc223c42
+      internalID: -854218667401291136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_240
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f80c10cf8b72498bdbe7f8b595fee
+      internalID: -1844772860420456851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_241
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3c56ab51826a34b8ea02a54baa5d7f
+      internalID: -1918486421314979493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_242
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16344b153558c64b92d083a9954a908
+      internalID: 85682367715285703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_243
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270602acdf27db4eb9b1b6a00ebce99
+      internalID: -5289768302364968031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_244
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a1daf88763eb4d88c98e298b08714
+      internalID: -1685498285708571039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_245
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8daead193755c4fb7596354608808f
+      internalID: -8964918768402946177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_246
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea10a30079cb114a8b3ba4fa9dc3c79
+      internalID: -3069457142914025133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_247
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7385887d6476468c9234e31290a8c
+      internalID: 2281748132019496537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_248
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ade6de7dee1004783f54b0e657dc99
+      internalID: -6066068900351302876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_249
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9468d5c77dd34b998832f3f931e6a
+      internalID: 5947742198317072238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_250
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6105351a1f99b46bbd14f1d86e1a8c
+      internalID: 2616244449164405426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_251
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e553b16187d4e44b87543c0258f848e
+      internalID: -3804434243447984989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_252
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f18a662e2209940ae6e031f47c8dac
+      internalID: 2811536858026741879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_253
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871ca46895ac9247abe025e22319408
+      internalID: -1395527360091622727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_254
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99577f3571e533142ba1bf767317e38d
+      internalID: 3951138179537488777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_255
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3309c3fa6b2f147b69102830f85ee3
+      internalID: -3601663432393700678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_256
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02eef1f43196048a7d4ea5e3a002f4
+      internalID: 6329925758710542676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_257
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c01311e7432ee4d96efb981e647c4e
+      internalID: 9156683482346640584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_258
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46820c2fb04a3cb47a665036381185b8
+      internalID: 6838478183302209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floorTiles_crop_259
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee455cfc797ed049b8111de07cb6b5d
+      internalID: -8590833512840304733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b6dd6e31717c99a41b6a5b26c8a306ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
